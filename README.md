@@ -69,28 +69,34 @@ The Spark notebook dynamically:
 ## 📸 Screenshots
 
 ### Airflow DAG Execution
-![Airflow DAG](screenshots/Screenshot 2025-05-19 181635.png)
+![Screenshot 2025-05-19 181635](https://github.com/user-attachments/assets/e8c0cee9-2d9e-4f91-af95-2056c780488a)
+
 
 ### Airflow Logs for Triggering Synapse
-![Airflow Logs](screenshots/Screenshot 2025-05-19 180522.png)
+![Screenshot 2025-05-19 180522](https://github.com/user-attachments/assets/fd6b2273-7ddf-4e22-8b1e-679e22bd420a)
+
 
 ### Synapse Notebook Cleaning Logic
-![Notebook 1](screenshots/Screenshot 2025-05-19 171332.png)
+![Screenshot 2025-05-19 171332](https://github.com/user-attachments/assets/1841f57b-ca7f-4d20-a684-d24d807bf06f)
+
 
 ### Output Path Writing in Notebook
-![Notebook Output](screenshots/Screenshot 2025-05-19 172304.png)
+![Screenshot 2025-05-19 172304](https://github.com/user-attachments/assets/07179716-fea2-4831-b34b-d81b98eebabb)
 
 ### Cleaned Data Files in ADLS Gen2
-![Cleaned Folder](screenshots/Screenshot 2025-05-19 175827.png)
+![Screenshot 2025-05-19 175827](https://github.com/user-attachments/assets/2c38b58e-a145-4aac-b55e-c13fe0d41466)
+
 
 ### Single File Inside Cleaned Folder
-![Cleaned CSV](screenshots/Screenshot 2025-05-19 112617.png)
+![Screenshot 2025-05-19 112617](https://github.com/user-attachments/assets/8ea20fab-02e9-45eb-8da4-a0f872460dd9)
+
 
 ### All Timestamped Folders in Clean Zone
-![All Outputs](screenshots/Screenshot 2025-05-19 135321.png)
+![Screenshot 2025-05-19 135321](https://github.com/user-attachments/assets/112db16f-354c-487d-90b2-c5c8446de5f9)
+
 
 ### Synapse Pipeline Execution History
-![Pipeline Runs](screenshots/Screenshot 2025-05-19 180347.png)
+![Screenshot 2025-05-19 180347](https://github.com/user-attachments/assets/71fb47c7-7d48-48c3-8126-fc590bda8516)
 
 ---
 
