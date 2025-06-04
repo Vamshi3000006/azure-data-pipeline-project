@@ -68,6 +68,9 @@ The Spark notebook dynamically:
 
 ## 📸 Screenshots
 
+### Raw Data(Another pipeline to generate for every 1 hour)
+![Screenshot 2025-05-19 181635](https://github.com/user-attachments/assets/0ddbcffb-59ca-4386-84be-15c75c0eef7d)
+
 ### Airflow DAG Execution
 ![Screenshot 2025-05-19 175827](https://github.com/user-attachments/assets/96a055bb-5f99-4a55-8b78-d2b8c1fb38c6)
 
